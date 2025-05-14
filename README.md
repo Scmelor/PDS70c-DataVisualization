@@ -24,7 +24,6 @@ Para ejecutar los notebooks se requiere Python ≥3.8 y las siguientes librería
 - pandas
 - seaborn
 - astropy
-- netCDF4
 - h5py
 
 Puedes instalar las dependencias mediante:

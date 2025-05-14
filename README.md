@@ -25,8 +25,3 @@ Para ejecutar los notebooks se requiere Python ≥3.8 y las siguientes librería
 - seaborn
 - astropy
 - h5py
-
-Puedes instalar las dependencias mediante:
-
-```bash
-pip install -r requirements.txt
